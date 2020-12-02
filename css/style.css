@@ -3,6 +3,7 @@ body {
 
 }
 
+/* Header Section Styling */
 #header {
     background-color: white;
     border: 1px solid black;
@@ -41,4 +42,41 @@ body {
     border: 1px solid black;
     margin-left: 5px;
 
+}
+
+/* Section One Styling */
+#sectionOne {
+    background-color: brown;
+    border: 1px solid white;
+    margin-left: 90px;
+    padding: 20px;
+    width: 85%;
+    height: 35vh;
+}
+
+.circle1 {
+    display: inline-block;
+    background-color: rgb(199, 19, 199);
+    border: 1px solid black;
+    padding: 110px;
+    border-radius: 115px;
+    margin-left: 150px;
+}
+
+.circle2 {
+    display: inline-block;
+    background-color: rgb(199, 19, 199);
+    border: 1px solid black;
+    padding: 110px;
+    border-radius: 115px;
+    margin-left: 100px;
+}
+
+.circle3 {
+    display: inline-block;
+    background-color: rgb(199, 19, 199);
+    border: 1px solid black;
+    padding: 110px;
+    border-radius: 115px;
+    margin-left: 100px;
 }
