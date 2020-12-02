@@ -80,3 +80,22 @@ body {
     border-radius: 115px;
     margin-left: 100px;
 }
+/* Section Two Styling */
+.sectionA{
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 90px;
+    width: 25%;
+    height: 30vh;
+    display: inline-block;
+}
+.sectionB{
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 85px;
+    width: 25%;
+    height: 30vh;
+    display: inline-block;
+    float: right;
+    margin-right: 65px;
+}
