@@ -80,8 +80,9 @@ body {
     border-radius: 115px;
     margin-left: 100px;
 }
+
 /* Section Two Styling */
-.sectionA{
+.sectionA {
     border: 1px solid black;
     margin-top: 50px;
     margin-left: 90px;
@@ -89,7 +90,8 @@ body {
     height: 30vh;
     display: inline-block;
 }
-.sectionB{
+
+.sectionB {
     border: 1px solid black;
     margin-top: 50px;
     margin-left: 85px;
@@ -98,4 +100,17 @@ body {
     display: inline-block;
     float: right;
     margin-right: 65px;
+}
+
+/* Footer Styling */
+#footer {
+    background-color: rgb(33, 169, 233);
+    border: 1px solid black;
+    margin: 70px 50px 20px 50px;
+    padding: 50px;
+    padding-bottom: 70px;
+}
+.span1{
+    float: right;
+    margin: 10px;
 }
